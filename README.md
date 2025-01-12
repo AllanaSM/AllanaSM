@@ -19,10 +19,12 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 
 <br>
 <br>
-[![UI Testing](https://img.shields.io/badge/Testing-UI-blue)]
-![API Testing](https://img.shields.io/badge/Testing-API-green)]
-![Requirement Analysis](https://img.shields.io/badge/Requrements-Analysis-purple)]
-![Web-form Testing](https://img.shields.io/badge/Testing-Web_form-orange)]
+
+![UI_Testing](https://img.shields.io/badge/Testing-UI-blue)
+
+![API Testing](https://img.shields.io/badge/Testing-API-green)
+![Requirement Analysis](https://img.shields.io/badge/Requrements-Analysis-purple)
+![Web-form Testing](https://img.shields.io/badge/Testing-Web_form-orange)
 
 ### :bookmark_tabs: CV:
 
