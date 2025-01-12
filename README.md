@@ -1,15 +1,15 @@
-## Привет, меня зовут Алла!
+## :wave: Hello, my name is Alla!
 
 Я развиваюсь в направлении тестирования ПО и контроля качества. Основной интерес на данный момент - тестирование веб-приложений (front + back).
 Получаю удовольствие от исследования новых инструментов, улучшения продуктов и процессов. Являюсь сторонником работы на результат и ценю слаженную командную работу.
 
 
-### Портфолио:
-- Ведение баг-репортов (ссылка)
-- Работа с MySQL (ссылка)
-- Работа с API (в процессе)
+### :card_index_dividers: Portfolio:
+- Tracking bugs and writing bug reports (ссылка)
+- Working with MySQL (ссылка)
+- Working with API (в процессе)
 
-### Навыки и инструменты:
+### :hammer_and_wrench: Skills and tools:
 - DevTools
 - UI Testing
 - Postman
@@ -20,7 +20,11 @@
 - English language
 - Atlassian Confluence
 
-### Резюме:
+<div>
+  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/png/devtools-circle-16.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
+</div>
+
+### :bookmark_tabs: CV:
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AllaDerzhavina)
