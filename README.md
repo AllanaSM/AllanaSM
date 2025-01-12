@@ -11,19 +11,16 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 ### :hammer_and_wrench: Skills and tools:
 
 <div>
-  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  &nbsp;&nbsp;&nbsp;<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
-<br>
-
-![UI_Testing](https://img.shields.io/badge/Testing-UI-blue)
-
-![API Testing](https://img.shields.io/badge/Testing-API-green)
 ![Requirement Analysis](https://img.shields.io/badge/Requrements-Analysis-purple)
+![UI_Testing](https://img.shields.io/badge/Testing-UI-blue)
+![API Testing](https://img.shields.io/badge/Testing-API-green)
 ![Web-form Testing](https://img.shields.io/badge/Testing-Web_form-orange)
 
 ### :bookmark_tabs: CV:
