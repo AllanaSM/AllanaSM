@@ -23,7 +23,7 @@
 - Requirements Analysis
 - Web-form testing
 - English language
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
+![UI Testing](https://img.shields.io/badge/UI-Testing-blue)]
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
@@ -34,6 +34,6 @@
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AllaDerzhavina)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=whatsapp&logoColor=27A0D9)](https://wa.me/79605447984)
-[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg-090909?style=for-the-badge&logo=linkedin&logoColor=007BA5)](https://www.linkedin.com/in/alla-derzhavina)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79605447984)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alla-derzhavina)
 
