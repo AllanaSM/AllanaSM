@@ -18,6 +18,7 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 </div>
 
 <br>
+
 ![Requirement_Analysis](https://img.shields.io/badge/Requrements-Analysis-purple)
 ![UI_Testing](https://img.shields.io/badge/Testing-UI-blue)
 ![API_Testing](https://img.shields.io/badge/Testing-API-green)
@@ -25,8 +26,8 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 
 ### :bookmark_tabs: CV:
 
-### You can contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AllaDerzhavina)
+### How to reach me:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllaDerzhavina)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79605447984)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alla-derzhavina)
 
