@@ -21,7 +21,7 @@
 - Atlassian Confluence
 
 <div>
-  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/png/devtools-circle-16.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
 </div>
 
 ### :bookmark_tabs: CV:
