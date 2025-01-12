@@ -4,7 +4,7 @@ I'm developing in the direction of software testing and quality assurance. My ma
 I'm passionate about improving things and love learning new tools.  I'm a big believer in teamwork and getting things done efficiently.
 
 ### :card_index_dividers: My portfolio:
-- :lady_beetle: Tracking bugs and writing <a href="https://docs.google.com/spreadsheets/d/1NG-AHSZgFXNaJI_hA6x01r1TXEpGoutj/edit?usp=sharing&ouid=103402947467943157180&rtpof=true&sd=true" target="_blank"> <b>bug reports</b> </a>
+- :lady_beetle: Tracking bugs and writing <a href="https://docs.google.com/spreadsheets/d/1NG-AHSZgFXNaJI_hA6x01r1TXEpGoutj/edit?usp=sharing&ouid=103402947467943157180&rtpof=true&sd=true" target="_blank"><b>bug reports</b></a>
 - :books: Working with <b>MySQL</b> (in process)
 - :gear: Working with <b>API</b> (in process)
 
