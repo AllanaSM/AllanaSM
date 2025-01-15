@@ -31,8 +31,8 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 <br>
 
 ### :bookmark_tabs: My CV:
-- :en: <a href="https://drive.google.com/file/d/1gI2ttZ7jwmLxyEPJLEJS_Ho3DkLBB0Rg/view?usp=sharing" target="_blank"><b>English</b></a>
-- :ru: <a href="https://drive.google.com/file/d/1xq0vNh0nTWwax0vRMcxd7o-pwfIiEr7H/view?usp=sharing" target="_blank"><b>Russian</b></a>
+- <a href="https://drive.google.com/file/d/1gI2ttZ7jwmLxyEPJLEJS_Ho3DkLBB0Rg/view?usp=sharing" target="_blank"><b>English</b></a>
+- <a href="https://drive.google.com/file/d/1xq0vNh0nTWwax0vRMcxd7o-pwfIiEr7H/view?usp=sharing" target="_blank"><b>Russian</b></a>
 
 <br>
 
