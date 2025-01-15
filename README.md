@@ -7,7 +7,7 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 
 ### :card_index_dividers: My portfolio:
 - :lady_beetle: Tracking bugs and writing <a href="https://docs.google.com/spreadsheets/d/1NG-AHSZgFXNaJI_hA6x01r1TXEpGoutj/edit?usp=sharing&ouid=103402947467943157180&rtpof=true&sd=true" target="_blank"><b>bug reports</b></a>
-- :books: Working with <b>MySQL</b> (in process)
+- :books: Working with <b>MySQL</b>: <a href="https://gist.github.com/AllanaSM/78ef16b74824d0340ac306e4e1a1d2a0" target="_blank"><b>Data selection</b></a>, <a href="https://gist.github.com/AllanaSM/93433c722f8c96f82e2172d4bcc0ba83" target="_blank"><b>Data correction</b></a>
 - :gear: Working with <b>API</b> (in process)
 
 <br>
@@ -30,11 +30,13 @@ I'm passionate about improving things and love learning new tools.  I'm a big be
 
 <br>
 
-### :bookmark_tabs: CV:
+### :bookmark_tabs: My CV:
+- :en: <a href="https://drive.google.com/file/d/1gI2ttZ7jwmLxyEPJLEJS_Ho3DkLBB0Rg/view?usp=sharing" target="_blank"><b>English</b></a>
+- :ru: <a href="https://drive.google.com/file/d/1xq0vNh0nTWwax0vRMcxd7o-pwfIiEr7H/view?usp=sharing" target="_blank"><b>Russian</b></a>
 
 <br>
 
-### How to reach me:
+### Contact me via:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllaDerzhavina)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79605447984)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alla-derzhavina)
