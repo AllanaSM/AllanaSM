@@ -1,6 +1,6 @@
 ## Hello, my name is Alla! :wave: 
 
-I'm developing in the direction of software testing and quality assurance. My main interest right now is a Web application testing.
+I'm developing in the direction of software testing and quality assurance. My main interest right now is a Web application testing and API.
 I'm passionate about improving things and love learning new tools.  I'm a big believer in teamwork and getting things done efficiently.
 
 <br>
